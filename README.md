@@ -1,3 +1,3 @@
 # README
 
-A Micro Reddit application that runs in Rails Console that uses migrations, validation and associations
+A Micro Reddit application that runs in Rails Console and uses migrations, validation and associations
